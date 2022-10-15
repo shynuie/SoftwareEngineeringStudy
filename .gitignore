@@ -1,3 +1,6 @@
 contents/
 *.icloud
 *.DS_Store
+*.HEIC
+*.pdf
+*.pages
