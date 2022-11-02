@@ -8,9 +8,9 @@
     * A static perspective that shows process activities
     * A practice perspective that suggests good practice
 
-<img src="imgs/rup_model1.png">
+<img src="imgs/RUP_model1.png">
 
-<img src="imgs/rup_model2.png">
+<img src="imgs/RUP_model2.png">
 
 ---
 ### RUP phases
